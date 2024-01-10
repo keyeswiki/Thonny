@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio docs
+   :caption: keyes docs
 
    README.md
    docs/keyestudio/index
