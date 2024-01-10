@@ -4,8 +4,7 @@
    :caption: keyes docs
 
    README.md
-   docs/keyestudio/index
-
+   docs/Thonny 软件下载安装和使用方法.md
 
 
 
