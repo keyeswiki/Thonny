@@ -37,72 +37,72 @@ sudo dnf install thonny
 ```
 |
 
-![Img](./media/下载Thonny软件1img-20230407164139.png)
+![Img](./media/_Thonny_1img-20230407164139.png)
 
-![Img](./media/下载Thonny软件2img-20230407164143.png)
+![Img](./media/_Thonny_2img-20230407164143.png)
 
 ### 2.Windows上安装Thonny软件：
 A.下载后的Thonny图标如下。
 
-![Img](./media/Windows上安装Thonny软件1img-20230407164156.png)
+![Img](./media/Windows_Thonny_1img-20230407164156.png)
 
-B.双击“thonny-4.0.2.exe”，会出现下面对话框，我这里是选择“![Img](./media/Windows上安装Thonny软件2img-20230407164219.png)”进行操作的。你也可以选择“![Img](./media/Windows上安装Thonny软件3img-20230407164228.png)”进行操作的。
+B.双击“thonny-4.0.2.exe”，会出现下面对话框，我这里是选择“![Img](./media/Windows_Thonny_2img-20230407164219.png)”进行操作的。你也可以选择“![Img](./media/Windows_Thonny_3img-20230407164228.png)”进行操作的。
 
-![Img](./media/Windows上安装Thonny软件4img-20230407164239.png)
+![Img](./media/Windows_Thonny_4img-20230407164239.png)
 
 C.如果您不熟悉电脑软件安装，您可以一直单击“**Next**”直到安装完成。
 
-![Img](./media/Windows上安装Thonny软件5img-20230407164257.png)
+![Img](./media/Windows_Thonny_5img-20230407164257.png)
 
-![Img](./media/Windows上安装Thonny软件6img-20230407164306.png)
+![Img](./media/Windows_Thonny_6img-20230407164306.png)
 
 D.如果您需要更改Thonny软件的安装路径，可以单击“**Browse...**”进行修改。选择安装路径后，单击“**OK**”。如果您不想更改安装路径，只需单击“**Next**”；然后又继续单击“**Next**”。
 
-![Img](./media/Windows上安装Thonny软件7img-20230407164314.png)
+![Img](./media/Windows_Thonny_7img-20230407164314.png)
 
-![Img](./media/Windows上安装Thonny软件8img-20230407164325.png)
+![Img](./media/Windows_Thonny_8img-20230407164325.png)
 
 E.选中“**Create desktop icon**”，Thonny软件会在你的桌面上生成一个快捷方式，方便你稍后打开Thonny软件。
 
-![Img](./media/Windows上安装Thonny软件9img-20230407164341.png)
+![Img](./media/Windows_Thonny_9img-20230407164341.png)
 
 F.单击“**Install**”安装软件。
 
-![Img](./media/Windows上安装Thonny软件10img-20230407164353.png)
+![Img](./media/Windows_Thonny_10img-20230407164353.png)
 
 G.在安装过程中，您只需等待安装完成，千万不要点击“**Cancel**”，否则将无法安装成功。
 
-![Img](./media/Windows上安装Thonny软件11img-20230407164405.png)
+![Img](./media/Windows_Thonny_11img-20230407164405.png)
 
 H.一旦看到如下界面，就表示已经成功安装了Thonny软件，点击“**Finish**”就可以。
 
-![Img](./media/Windows上安装Thonny软件12img-20230407164412.png)
+![Img](./media/Windows_Thonny_12img-20230407164412.png)
 
 I.如果你在安装过程中选择了“**Create desktop icon**”，则可以在桌面上看到如下图标。
 
-![Img](./media/Windows上安装Thonny软件13img-20230407164419.png)
+![Img](./media/Windows_Thonny_13img-20230407164419.png)
 
 ## 二、Thonny软件基本配置  
 
 A.双击Thonny软件的桌面图标，可以看到如下界面，同时还可以进行语言选择(<span style="color: rgb(255, 76, 65);">这里选择简体中文</span>)和初始设置。设置完了点击“**Let’s go！**”。
 
-![Img](./media/Thonny软件基本配置1img-20230407164446.png)
+![Img](./media/Thonny__1img-20230407164446.png)
 
-![Img](./media/Thonny软件基本配置2img-20230407164453.png)
+![Img](./media/Thonny__2img-20230407164453.png)
 
-![Img](./media/Thonny软件基本配置3img-20230407164457.png)
+![Img](./media/Thonny__3img-20230407164457.png)
 
-![Img](../media/Thonny软件基本配置4img-20230407164500.png)
+![Img](../media/Thonny__4img-20230407164500.png)
 
-![Img](./media/Thonny软件基本配置5img-20230407164507.png)
+![Img](./media/Thonny__5img-20230407164507.png)
 
 B.选择“**视图**”→“**文件**”和“**Shell**”。
 
-![Img](./media/Thonny软件基本配置6img-20230407164524.png)
+![Img](./media/Thonny__6img-20230407164524.png)
 
-![Img](./media/Thonny软件基本配置7img-20230407164531.png)
+![Img](./media/Thonny__7img-20230407164531.png)
 
-![Img](./media/Thonny软件基本配置8img-20230407164535.png)
+![Img](./media/Thonny__8img-20230407164535.png)
 
 ## 三、更新Micropython固件（重要） 
 
