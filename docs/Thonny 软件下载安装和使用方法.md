@@ -37,72 +37,72 @@ sudo dnf install thonny
 ```
 |
 
-![Img](./media/_Thonny_1img-20230407164139.png)
+![Img](./X/_Thonny_1img-20230407164139.png)
 
-![Img](./media/_Thonny_2img-20230407164143.png)
+![Img](./X/_Thonny_2img-20230407164143.png)
 
 ### 2.Windows上安装Thonny软件：
 A.下载后的Thonny图标如下。
 
-![Img](./media/Windows_Thonny_1img-20230407164156.png)
+![Img](./X/Windows_Thonny_1img-20230407164156.png)
 
-B.双击“thonny-4.0.2.exe”，会出现下面对话框，我这里是选择“![Img](./media/Windows_Thonny_2img-20230407164219.png)”进行操作的。你也可以选择“![Img](./media/Windows_Thonny_3img-20230407164228.png)”进行操作的。
+B.双击“thonny-4.0.2.exe”，会出现下面对话框，我这里是选择“![Img](./X/Windows_Thonny_2img-20230407164219.png)”进行操作的。你也可以选择“![Img](./X/Windows_Thonny_3img-20230407164228.png)”进行操作的。
 
-![Img](./media/Windows_Thonny_4img-20230407164239.png)
+![Img](./X/Windows_Thonny_4img-20230407164239.png)
 
 C.如果您不熟悉电脑软件安装，您可以一直单击“**Next**”直到安装完成。
 
-![Img](./media/Windows_Thonny_5img-20230407164257.png)
+![Img](./X/Windows_Thonny_5img-20230407164257.png)
 
-![Img](./media/Windows_Thonny_6img-20230407164306.png)
+![Img](./X/Windows_Thonny_6img-20230407164306.png)
 
 D.如果您需要更改Thonny软件的安装路径，可以单击“**Browse...**”进行修改。选择安装路径后，单击“**OK**”。如果您不想更改安装路径，只需单击“**Next**”；然后又继续单击“**Next**”。
 
-![Img](./media/Windows_Thonny_7img-20230407164314.png)
+![Img](./X/Windows_Thonny_7img-20230407164314.png)
 
-![Img](./media/Windows_Thonny_8img-20230407164325.png)
+![Img](./X/Windows_Thonny_8img-20230407164325.png)
 
 E.选中“**Create desktop icon**”，Thonny软件会在你的桌面上生成一个快捷方式，方便你稍后打开Thonny软件。
 
-![Img](./media/Windows_Thonny_9img-20230407164341.png)
+![Img](./X/Windows_Thonny_9img-20230407164341.png)
 
 F.单击“**Install**”安装软件。
 
-![Img](./media/Windows_Thonny_10img-20230407164353.png)
+![Img](./X/Windows_Thonny_10img-20230407164353.png)
 
 G.在安装过程中，您只需等待安装完成，千万不要点击“**Cancel**”，否则将无法安装成功。
 
-![Img](./media/Windows_Thonny_11img-20230407164405.png)
+![Img](./X/Windows_Thonny_11img-20230407164405.png)
 
 H.一旦看到如下界面，就表示已经成功安装了Thonny软件，点击“**Finish**”就可以。
 
-![Img](./media/Windows_Thonny_12img-20230407164412.png)
+![Img](./X/Windows_Thonny_12img-20230407164412.png)
 
 I.如果你在安装过程中选择了“**Create desktop icon**”，则可以在桌面上看到如下图标。
 
-![Img](./media/Windows_Thonny_13img-20230407164419.png)
+![Img](./X/Windows_Thonny_13img-20230407164419.png)
 
 ## 二、Thonny软件基本配置  
 
 A.双击Thonny软件的桌面图标，可以看到如下界面，同时还可以进行语言选择(<span style="color: rgb(255, 76, 65);">这里选择简体中文</span>)和初始设置。设置完了点击“**Let’s go！**”。
 
-![Img](./media/Thonny__1img-20230407164446.png)
+![Img](./X/Thonny__1img-20230407164446.png)
 
-![Img](./media/Thonny__2img-20230407164453.png)
+![Img](./X/Thonny__2img-20230407164453.png)
 
-![Img](./media/Thonny__3img-20230407164457.png)
+![Img](./X/Thonny__3img-20230407164457.png)
 
-![Img](../media/Thonny__4img-20230407164500.png)
+![Img](../X/Thonny__4img-20230407164500.png)
 
-![Img](./media/Thonny__5img-20230407164507.png)
+![Img](./X/Thonny__5img-20230407164507.png)
 
 B.选择“**视图**”→“**文件**”和“**Shell**”。
 
-![Img](./media/Thonny__6img-20230407164524.png)
+![Img](./X/Thonny__6img-20230407164524.png)
 
-![Img](./media/Thonny__7img-20230407164531.png)
+![Img](./X/Thonny__7img-20230407164531.png)
 
-![Img](./media/Thonny__8img-20230407164535.png)
+![Img](./X/Thonny__8img-20230407164535.png)
 
 ## 三、更新Micropython固件（重要） 
 
@@ -123,21 +123,21 @@ B.选择“**视图**”→“**文件**”和“**Shell**”。
 
 A.单击上面的链接，你可以看到以下界面：
 
-![Img](./media/img-20240110091420.png)
+![Img](./X/img-20240110091420.png)
 
 B.滚动鼠标，你又可以看到以下内容：
 
-![Img](./media/img-20240110091456.png)
+![Img](./X/img-20240110091456.png)
 
 C.单击“<span style="color: rgb(61, 167, 66);">MicroPython(Getting started MicroPython)</span>”进入固件下载页面。
 
-![Img](./media/img-20240110091526.png)
+![Img](./X/img-20240110091526.png)
 
 方法2：通过单击下载链接：[https://micropython.org/download/rp2-pico/rp2-pico-latest.uf2](https://micropython.org/download/rp2-pico/rp2-pico-latest.uf2) ，可以直接下载。
 
 方法3：如果你因为网络问题或其他原因无法下载，可以使用我们准备的 .uf2 文件，它位于以下文件路径
 
-![Img](./media/img-20240110091619.png)
+![Img](./X/img-20240110091619.png)
 
 ### 3. 烧入MicroPython固件的步骤
 
@@ -145,17 +145,17 @@ C.单击“<span style="color: rgb(61, 167, 66);">MicroPython(Getting started Mi
 
 ②长按“树莓派Pico板”上的白色按钮（BOOTSEL）。然后，通过microUSB线另一端将树莓派Pico板与电脑连接。
 
-![Img](./media/img-20240110091821.png)
+![Img](./X/img-20240110091821.png)
 
 ③松开按钮，当连接成功时，在你的电脑上打开[<span style="color: rgb(255, 76, 65);">设备管理器</span>]，电脑将自动识别可移动磁盘(RPI-RP2)，如下所示:
 
-![Img](./media/img-20240110091855.png)
+![Img](./X/img-20240110091855.png)
 
 ④复制文件（rp2-pico-20210902-v1.17.uf2）到可移动磁盘(RPI-RP2)，并等待它完成，就像复制文件到U盘一样。
 
-![Img](./media/img-20240110091909.png)
+![Img](./X/img-20240110091909.png)
 
-![Img](./media/img-20240110092436.png)
+![Img](./X/img-20240110092436.png)
 
 ⑤当固件烧入完成后，树莓派Pico板会自动重启。之后，你可以运行Micropython。
 
@@ -163,11 +163,11 @@ C.单击“<span style="color: rgb(61, 167, 66);">MicroPython(Getting started Mi
 
 1.打开Thonny软件，点击“运行”并选择“选择解释器…”
 
-![Img](./media/img-20240110092556.png)
+![Img](./X/img-20240110092556.png)
 
 2.选择“Micropython (一般)”或“Micropython (Raspberry Pi Pico)”均可。如何选择“Micropython(Raspberry Pi Pico)”? 如下所示：
 
-![Img](./media/img-20240110092618.png)
+![Img](./X/img-20240110092618.png)
 
 3.选择“USB-SERIAL (COMx)”，“COMx”的编号在不同的电脑之间可能会有所不同。你只需要确保选择“USB-SERIAL (COMx)”就行。
 <br>
@@ -176,20 +176,20 @@ C.单击“<span style="color: rgb(61, 167, 66);">MicroPython(Getting started Mi
 
 步骤1: 当你的树莓派Pico板没有连接到电脑时，打开Thonny软件，点击“运行”，选择“选择解释器...”，弹出对话框，点击“端口”，可以查看当前连接的端口，如下图所示:
 
-![Img](./media/img-20240110092837.png)
+![Img](./X/img-20240110092837.png)
 
 步骤2: 关闭对话框。将树莓派Pico板连接到电脑，再次单击“运行”并选择“选择解释器...”。单击弹出窗口中的“端口”，查看当前端口。现在又增加了一个端口，那么这个端口是用来与电脑通信的。
 
-![Img](./media/img-20240110092852.png)
+![Img](./X/img-20240110092852.png)
 
 4.选择“Micropython(Raspberry Pi Pico)”和端口后，单击“确定”。
 
-![Img](./media/img-20240110092919.png)
+![Img](./X/img-20240110092919.png)
 
 
 5.当在Thonny软件上显示以下消息时，表明Thonny软件已成功连接到树莓派Pico板。
 
-![Img](./media/img-20240110092929.png)
+![Img](./X/img-20240110092929.png)
 
 到目前为止，所有的准备工作都已就绪。
 
@@ -199,7 +199,7 @@ C.单击“<span style="color: rgb(61, 167, 66);">MicroPython(Getting started Mi
 
 在“Shell”窗口输入“print(Hello World!)”，按“Enter”键。
 
-![Img](./media/img-20240110093005.png)
+![Img](./X/img-20240110093005.png)
 
 ### 2.在线运行代码：
 
@@ -220,26 +220,26 @@ C.单击“<span style="color: rgb(61, 167, 66);">MicroPython(Getting started Mi
 
 （1）打开Thonny软件，并且单击“打开...”。
 
-![Img](./media/img-20240110093123.png)
+![Img](./X/img-20240110093123.png)
 
 （2）在新弹出的窗口中，点击“此电脑”。
 
-![Img](./media/img-20240110093132.png)
+![Img](./X/img-20240110093132.png)
 
 在新的对话框中，进入文件夹..\项目 01：Hello World 选中“Project_01_HelloWorld.py”,单击“Open”。
 
-![Img](./media/img-20240110093217.png)
+![Img](./X/img-20240110093217.png)
 
-（3）单击![Img](./media/img-20240110093404.png)“运行当前脚本”来执行程序“Hello World!”, "Welcome Keyestudio" 将打印在“Shell”窗口。
+（3）单击![Img](./X/img-20240110093404.png)“运行当前脚本”来执行程序“Hello World!”, "Welcome Keyestudio" 将打印在“Shell”窗口。
 
-![Img](./media/img-20240110093413.png)
+![Img](./X/img-20240110093413.png)
 
 **退出在线运行**
 
-当在线运行时，单击Thonny软件上的![Img](./media/img-20240110093823.png)
+当在线运行时，单击Thonny软件上的![Img](./X/img-20240110093823.png)
 “停止/重启后端进程”或按Ctrl+C退出程序。
 
-![Img](./media/img-20240110093832.png)
+![Img](./X/img-20240110093832.png)
 
 ### 3. 离线运行代码：
 
@@ -255,65 +255,65 @@ C.单击“<span style="color: rgb(61, 167, 66);">MicroPython(Getting started Mi
 
 （1）单击 “文件”→“新文件” 创建并编写代码。
 
-![Img](./media/img-20240110094051.png)
+![Img](./X/img-20240110094051.png)
 
 （2）在新打开的文件中输入代码。这里我们以Project_02_Onboard_LED_flashing.py代码为例。
 
-![Img](./media/img-20240110094117.png)
+![Img](./X/img-20240110094117.png)
 
-（3）单击菜单栏上的![Img](./media/img-20240110094129.png)“保存”, 你可以将代码保存到此电脑或Raspberry Pi Pico。
+（3）单击菜单栏上的![Img](./X/img-20240110094129.png)“保存”, 你可以将代码保存到此电脑或Raspberry Pi Pico。
 
-![Img](./media/img-20240110094139.png)
+![Img](./X/img-20240110094139.png)
 
 （4）选择“Raspberry Pi Pico”，在新弹出的窗口中输入“main\.py”并单击“确认”。
 
-![Img](./media/img-20240110094150.png)
+![Img](./X/img-20240110094150.png)
 
-![Img](./media/img-20240110094155.png)
+![Img](./X/img-20240110094155.png)
 
 （5）你可以看到代码已经被上传到树莓派Pico板。
 
-![Img](./media/img-20240110094205.png)
+![Img](./X/img-20240110094205.png)
 
 （6）断开树莓派Pico板的microUSB线，再重新连接，树莓派Pico板上的LED会反复闪烁。
 
-![Img](./media/img-20240110094528.png)
+![Img](./X/img-20240110094528.png)
 
 **退出离线运行**
 
-连接树莓派Pico板到电脑，点击Thonny软件上的![Img](./media/img-20240110094610.png) “停止/重启后端进程”结束离线运行。
+连接树莓派Pico板到电脑，点击Thonny软件上的![Img](./X/img-20240110094610.png) “停止/重启后端进程”结束离线运行。
 
-![Img](./media/img-20240110094619.png)
+![Img](./X/img-20240110094619.png)
 
-如果它不能工作，请点击Thonny软件上的![Img](./media/img-20240110094610.png) “停止/重启后端进程”多次或重新连接树莓派Pico板。
+如果它不能工作，请点击Thonny软件上的![Img](./X/img-20240110094610.png) “停止/重启后端进程”多次或重新连接树莓派Pico板。
 
-![Img](./media/img-20240110094632.png)
+![Img](./X/img-20240110094632.png)
 
 我们提供了一个main.py文件用于离线运行。添加到main.py中的代码是执行用户代码文件的引导程序。你只需要将离线项目的代码文件(.py)上传到“Raspberry Pi Pico”。
 
 ① 在项目课程中展开“项目 00：main”，鼠标左键双击main\.py，我们提供的main.py可以使“Raspberry Pi Pico”中的代码离线运行。
 
-![Img](./media/img-20240110094841.png)
+![Img](./X/img-20240110094841.png)
 
 这里，我们使用项目 00和项目 02案例作为演示。使用树莓派Pico板上的LED（GP25引脚）显示结果。如果你已经修改了Project_02_Onboard_LED_flashing.py文件，那么你需要相应地修改它。如下图所示，鼠标右键单击Project_02_Onboard_LED_flashing.py文件，选择“<span style="color: rgb(255, 76, 65);">上载到/</span>“上传代码到 Raspberry Pi Pico。
 
-![Img](./media/img-20240110094919.png)
+![Img](./X/img-20240110094919.png)
 
 用同样的方法上传main\.py.
 
-![Img](./media/img-20240110094934.png)
+![Img](./X/img-20240110094934.png)
 
-![Img](./media/img-20240110094939.png)
+![Img](./X/img-20240110094939.png)
 
 断开树莓派Pico板的microUSB线并重新连接，树莓派Pico板上的LED将反复闪烁。
 
-![Img](./media/img-20240110094528.png)
+![Img](./X/img-20240110094528.png)
 
 <span style="color: rgb(255, 76, 65);">**特别注意:** </span>
-这里的代码是离线运行的。如果你想停止离线运行并且在“Shell”窗口显示对应信息，只需单击Thonny软件上的![Img](./media/img-20240110095046.png)
+这里的代码是离线运行的。如果你想停止离线运行并且在“Shell”窗口显示对应信息，只需单击Thonny软件上的![Img](./X/img-20240110095046.png)
 “停止/重启后端进程”。
 
-![Img](./media/img-20240110095056.png)
+![Img](./X/img-20240110095056.png)
 
 ## 六、Thonny常见的操作
 
@@ -321,52 +321,52 @@ C.单击“<span style="color: rgb(61, 167, 66);">MicroPython(Getting started Mi
 
 在Project 01：Hello World文件夹中，鼠标右键单击选中Project_01_HelloWorld.py，选择“<span style="color: rgb(255, 169, 0);">上载到/</span>”上传代码到 Raspberry Pi Pico的根目录。
 
-![Img](./media/img-20240110095147.png)
+![Img](./X/img-20240110095147.png)
 
 ### 2. 下载代码至电脑
 
 在“Raspberry Pi Pico”中，鼠标右键单击选中Project_01_HelloWorld.py，选择“<span style="color: rgb(255, 169, 0);">下载到/</span>”将代码下载到你的电脑。
 
-![Img](./media/img-20240110095211.png)
+![Img](./X/img-20240110095211.png)
 
 ### 3. 删除Raspberry Pi Pico根目录中的文件
 
 在“Raspberry Pi Pico”中，鼠标右键单击选中Project_01_HelloWorld.py，选择“删除”，从Raspberry Pi Pico根目录中删除Project_01_Hello World\.py。
 
-![Img](./media/img-20240110095305.png)
+![Img](./X/img-20240110095305.png)
 
 ### 4. 删除电脑目录中的文件
 
 在Project 01：Hello World文件夹中，鼠标右键单击选中Project_01_HelloWorld.py，选择“移动到回收站”，即可从Project 01：Hello World文件夹中删除。
 
-![Img](./media/img-20240110095321.png)
+![Img](./X/img-20240110095321.png)
 
 ### 5. 创建和保存代码
 
 （1）单击 “文件”→“新文件” 创建并编写代码。
 
-![Img](./media/img-20240110095342.png)
+![Img](./X/img-20240110095342.png)
 
 （2）在新打开的文件中输入代码。这里我们以Project_02_Onboard_LED_flashing.py代码为例。
 
-![Img](./media/img-20240110095353.png)
+![Img](./X/img-20240110095353.png)
 
-（3）单击菜单栏上的![Img](./media/img-20240110095405.png)“保存”, 你可以将代码保存到此电脑或Raspberry Pi Pico。
+（3）单击菜单栏上的![Img](./X/img-20240110095405.png)“保存”, 你可以将代码保存到此电脑或Raspberry Pi Pico。
 
-![Img](./media/img-20240110095412.png)
+![Img](./X/img-20240110095412.png)
 
 （4）选择“Raspberry Pi Pico”，在新弹出的窗口中输入“main\.py”并单击“确认”。
 
-![Img](./media/img-20240110095433.png)
+![Img](./X/img-20240110095433.png)
 
-![Img](./media/img-20240110095438.png)
+![Img](./X/img-20240110095438.png)
 
 （5）你可以看到代码已经被上传到Raspberry Pi Pico。
 
-![Img](./media/img-20240110095454.png)
+![Img](./X/img-20240110095454.png)
 
-（6）单击 ![Img](./media/img-20240110095504.png)“当前运行脚本”,树莓派Pico板上的LED会周期性闪烁。
+（6）单击 ![Img](./X/img-20240110095504.png)“当前运行脚本”,树莓派Pico板上的LED会周期性闪烁。
 
-![Img](./media/img-20240110095525.png)
+![Img](./X/img-20240110095525.png)
 
 
