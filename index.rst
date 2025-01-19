@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyes docs
+   :caption: Thonny软件
 
    README.md
    docs/ESP32/ESP32--Thonny软件下载安装和使用方法.md
