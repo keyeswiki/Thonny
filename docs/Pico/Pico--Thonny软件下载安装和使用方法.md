@@ -234,7 +234,7 @@ C.单击“<span style="color: rgb(61, 167, 66);">MicroPython(Getting started Mi
 
 ![Img](./media/img-20240110093217.png)
 
-（3）单击![Img](./media/img-20240110093404.png)“运行当前脚本”来执行程序“Hello World!”, "Welcome Keyestudio" 将打印在“Shell”窗口。
+（3）单击![Img](./media/img-20240110093404.png)“运行当前脚本”来执行程序“Hello World!”, "Welcome keyes " 将打印在“Shell”窗口。
 
 ![Img](./media/img-20240110093413.png)
 
