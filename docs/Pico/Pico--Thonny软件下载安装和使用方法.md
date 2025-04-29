@@ -94,7 +94,7 @@ A.双击Thonny软件的桌面图标，可以看到如下界面，同时还可以
 
 ![Img](./media/Thonny______3img-20230407164457.png)
 
-![Img](../media/Thonny______4img-20230407164500.png)
+![Img](./media/Thonny______4img-20230407164500.png)
 
 ![Img](./media/Thonny______5img-20230407164507.png)
 
@@ -234,7 +234,7 @@ C.单击“<span style="color: rgb(61, 167, 66);">MicroPython(Getting started Mi
 
 ![Img](./media/img-20240110093217.png)
 
-（3）单击![Img](./media/img-20240110093404.png)“运行当前脚本”来执行程序“Hello World!”, "Welcome Keyestudio" 将打印在“Shell”窗口。
+（3）单击![Img](./media/img-20240110093404.png)“运行当前脚本”来执行程序“Hello World!”, "Welcome keyes " 将打印在“Shell”窗口。
 
 ![Img](./media/img-20240110093413.png)
 

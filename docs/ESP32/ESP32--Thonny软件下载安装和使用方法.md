@@ -93,7 +93,7 @@ A.双击Thonny软件的桌面图标，可以看到如下界面，同时还可以
 
 ![Img](./media/Thonny______3img-20230407164457.png)
 
-![Img](../media/Thonny______4img-20230407164500.png)
+![Img](./media/Thonny______4img-20230407164500.png)
 
 ![Img](./media/Thonny______5img-20230407164507.png)
 
